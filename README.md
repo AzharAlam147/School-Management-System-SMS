@@ -1,4 +1,4 @@
-# School-Management-System-SMS ~c#
+# School-Management-System-SMS~c#
 A simple desktop application (Programming Fundamental Project) of school management system.
 
 # Login as Admin:
