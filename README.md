@@ -1,5 +1,5 @@
 # School-Management-System-SMS
-A simple desktop application of school management system.
+A simple desktop application (Programming Fundamental Project) of school management system.
 
 #Login as Admin:
 Username: admin
