@@ -1,6 +1,9 @@
 # School-Management-System ~c#
 A simple desktop application (Programming Fundamental Project) of school management system.
 
+# Project
+Programming involves activities such as analysis, developing understanding, generating algorithms, verification of requirements of algorithms including their correctness and resources consumption, and implementation (commonly referred to as coding) of algorithms in a target programming language.
+
 # Login as Admin:
 Username: admin
 Password: admin123
